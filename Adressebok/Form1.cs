@@ -18,6 +18,7 @@ namespace Adressebok
             InitializeComponent();
             search.ForeColor = Color.Gray;
             search.Text = "Fornavn";
+
             foreach (string line in richTextBox.Text.Split(new string[] { "\r\n", "\n" }, StringSplitOptions.None)
             {
                 navnListe.Items.Add(line);
