@@ -1,0 +1,9 @@
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\bin\Debug\Adressebok.exe.config
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\bin\Debug\Adressebok.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\bin\Debug\Adressebok.pdb
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\obj\Debug\Adressebok.csprojResolveAssemblyReference.cache
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\obj\Debug\Adressebok.Form1.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\obj\Debug\Adressebok.Properties.Resources.resources
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\obj\Debug\Adressebok.csproj.GenerateResource.Cache
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\obj\Debug\Adressebok.exe
+c:\users\jonathan\documents\visual studio 2015\Projects\Adressebok\Adressebok\obj\Debug\Adressebok.pdb
